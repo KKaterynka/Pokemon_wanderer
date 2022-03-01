@@ -1,4 +1,4 @@
-![](https://github.com/KateKo04/Pokemon_wanderer/blob/main/poke_backgrpund.jpg)
+![](https://github.com/KateKo04/Pokemon_wanderer/blob/main/styles/poke_backgrpund.jpg)
 
 # Pokemon Wanderer in Lviv
 
@@ -6,7 +6,7 @@ Terminal game in Python.
 
 In the beginning, you have on opportunity to choose your Pokemon OR just choose it by random.
 
-<img width="150" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/charmaleon.png"><img width="250" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/bulbasaur.jpg"><img width="200" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/squirtle.jpg">
+<img width="150" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/styles/charmaleon.png"><img width="250" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/styles/bulbasaur.jpg"><img width="200" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/styles/squirtle.jpg">
 
 Game involves two levels:
 
@@ -24,9 +24,9 @@ Game involves two levels:
 
 ### Pokemon (Pokemon_general directory)
 
-<img width="550" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/draw_io_poke.jpg">
+<img width="550" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/styles/draw_io_poke.jpg">
 
 
 ### Locations (Locations directory)
 
-<img width="650" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/building_draw_io.jpg">
+<img width="650" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/styles/building_draw_io.jpg">
