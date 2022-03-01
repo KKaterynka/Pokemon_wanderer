@@ -22,5 +22,11 @@ Game involves two levels:
 
 ## Class Implementation
 
+### Pokemon (Pokemon_general directory)
 
-<img width="650" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/draw_io_poke.jpg">
+<img width="550" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/draw_io_poke.jpg">
+
+
+### Locations (Locations directory)
+
+<img width="650" src="https://github.com/KateKo04/Pokemon_wanderer/blob/main/building_draw_io.jpg">
